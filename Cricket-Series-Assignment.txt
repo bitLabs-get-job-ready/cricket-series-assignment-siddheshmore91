@@ -25,7 +25,7 @@ Now solve the questions asked by cricket board
  
 
 1. How many different players contributed runs in the series? 
-
+Ans: 11
 2. What is the total number of runs scored in the series? 
 
 3. What is the total number of balls faced by players in the series? 
